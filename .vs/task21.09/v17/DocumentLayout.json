@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aykhanza\\source\\repos\\task21.09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B60459-6A65-4030-908B-BA103B0071A6}|task21.09\\task21.09.csproj|c:\\users\\aykhanza\\source\\repos\\task21.09\\task21.09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B60459-6A65-4030-908B-BA103B0071A6}|task21.09\\task21.09.csproj|solutionrelative:task21.09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B60459-6A65-4030-908B-BA103B0071A6}|task21.09\\task21.09.csproj|c:\\users\\aykhanza\\source\\repos\\task21.09\\task21.09\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B60459-6A65-4030-908B-BA103B0071A6}|task21.09\\task21.09.csproj|solutionrelative:task21.09\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B60459-6A65-4030-908B-BA103B0071A6}|task21.09\\task21.09.csproj|c:\\users\\aykhanza\\source\\repos\\task21.09\\task21.09\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B60459-6A65-4030-908B-BA103B0071A6}|task21.09\\task21.09.csproj|solutionrelative:task21.09\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B60459-6A65-4030-908B-BA103B0071A6}|task21.09\\task21.09.csproj|c:\\users\\aykhanza\\source\\repos\\task21.09\\task21.09\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B60459-6A65-4030-908B-BA103B0071A6}|task21.09\\task21.09.csproj|solutionrelative:task21.09\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aykhanza\\source\\repos\\task21.09\\task21.09\\Program.cs",
+              "RelativeDocumentMoniker": "task21.09\\Program.cs",
+              "ToolTip": "C:\\Users\\aykhanza\\source\\repos\\task21.09\\task21.09\\Program.cs",
+              "RelativeToolTip": "task21.09\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T13:30:05.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\aykhanza\\source\\repos\\task21.09\\task21.09\\Library.cs",
+              "RelativeDocumentMoniker": "task21.09\\Library.cs",
+              "ToolTip": "C:\\Users\\aykhanza\\source\\repos\\task21.09\\task21.09\\Library.cs",
+              "RelativeToolTip": "task21.09\\Library.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T13:05:57.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Books.cs",
+              "DocumentMoniker": "C:\\Users\\aykhanza\\source\\repos\\task21.09\\task21.09\\Books.cs",
+              "RelativeDocumentMoniker": "task21.09\\Books.cs",
+              "ToolTip": "C:\\Users\\aykhanza\\source\\repos\\task21.09\\task21.09\\Books.cs",
+              "RelativeToolTip": "task21.09\\Books.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T11:41:16.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\aykhanza\\source\\repos\\task21.09\\task21.09\\Product.cs",
+              "RelativeDocumentMoniker": "task21.09\\Product.cs",
+              "ToolTip": "C:\\Users\\aykhanza\\source\\repos\\task21.09\\task21.09\\Product.cs",
+              "RelativeToolTip": "task21.09\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T11:37:35.99Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

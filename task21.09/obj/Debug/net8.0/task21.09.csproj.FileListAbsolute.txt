@@ -1,0 +1,14 @@
+C:\Users\aykhanza\source\repos\task21.09\task21.09\bin\Debug\net8.0\task21.09.exe
+C:\Users\aykhanza\source\repos\task21.09\task21.09\bin\Debug\net8.0\task21.09.deps.json
+C:\Users\aykhanza\source\repos\task21.09\task21.09\bin\Debug\net8.0\task21.09.runtimeconfig.json
+C:\Users\aykhanza\source\repos\task21.09\task21.09\bin\Debug\net8.0\task21.09.dll
+C:\Users\aykhanza\source\repos\task21.09\task21.09\bin\Debug\net8.0\task21.09.pdb
+C:\Users\aykhanza\source\repos\task21.09\task21.09\obj\Debug\net8.0\task21.09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aykhanza\source\repos\task21.09\task21.09\obj\Debug\net8.0\task21.09.AssemblyInfoInputs.cache
+C:\Users\aykhanza\source\repos\task21.09\task21.09\obj\Debug\net8.0\task21.09.AssemblyInfo.cs
+C:\Users\aykhanza\source\repos\task21.09\task21.09\obj\Debug\net8.0\task21.09.csproj.CoreCompileInputs.cache
+C:\Users\aykhanza\source\repos\task21.09\task21.09\obj\Debug\net8.0\task21.09.dll
+C:\Users\aykhanza\source\repos\task21.09\task21.09\obj\Debug\net8.0\refint\task21.09.dll
+C:\Users\aykhanza\source\repos\task21.09\task21.09\obj\Debug\net8.0\task21.09.pdb
+C:\Users\aykhanza\source\repos\task21.09\task21.09\obj\Debug\net8.0\task21.09.genruntimeconfig.cache
+C:\Users\aykhanza\source\repos\task21.09\task21.09\obj\Debug\net8.0\ref\task21.09.dll
